@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> Hello world </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hello World </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,6 +36,18 @@
         <content type="html"><![CDATA[<h1 id="“乱花渐欲迷人眼，浅草才能没马蹄”-————-钱塘湖春行"><a href="#“乱花渐欲迷人眼，浅草才能没马蹄”-————-钱塘湖春行" class="headerlink" title="“乱花渐欲迷人眼，浅草才能没马蹄” ———— 钱塘湖春行"></a>“乱花渐欲迷人眼，浅草才能没马蹄” ———— 钱塘湖春行</h1>]]></content>
       
       
+      <categories>
+          
+          <category> 前端技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 多样化 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -37,6 +61,18 @@
         <content type="html"><![CDATA[<h1 id="“旧时王谢堂前燕，飞入寻常百姓家”-————-《乌衣巷》"><a href="#“旧时王谢堂前燕，飞入寻常百姓家”-————-《乌衣巷》" class="headerlink" title="“旧时王谢堂前燕，飞入寻常百姓家” ———— 《乌衣巷》"></a>“旧时王谢堂前燕，飞入寻常百姓家” ———— 《乌衣巷》</h1>]]></content>
       
       
+      <categories>
+          
+          <category> 前端技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 低代码 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -50,6 +86,18 @@
         <content type="html"><![CDATA[<h1 id="“行而不辍，未来可期”-————-《荀子·修身》"><a href="#“行而不辍，未来可期”-————-《荀子·修身》" class="headerlink" title="“行而不辍，未来可期” ———— 《荀子·修身》"></a>“行而不辍，未来可期” ———— 《荀子·修身》</h1>]]></content>
       
       
+      <categories>
+          
+          <category> 前端技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Node/Serverless </tag>
+            
+        </tags>
       
     </entry>
     
@@ -63,6 +111,18 @@
         <content type="html"><![CDATA[<h1 id="“不忘初心，方得始终”-————-《华严经》"><a href="#“不忘初心，方得始终”-————-《华严经》" class="headerlink" title="“不忘初心，方得始终” ———— 《华严经》"></a>“不忘初心，方得始终” ———— 《华严经》</h1>]]></content>
       
       
+      <categories>
+          
+          <category> 前端技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端体验 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -76,6 +136,18 @@
         <content type="html"><![CDATA[<h1 id="“不可陷之楯与无不陷之矛，不可同世而立”-————-《韩非子》"><a href="#“不可陷之楯与无不陷之矛，不可同世而立”-————-《韩非子》" class="headerlink" title="“不可陷之楯与无不陷之矛，不可同世而立” ———— 《韩非子》"></a>“不可陷之楯与无不陷之矛，不可同世而立” ———— 《韩非子》</h1>]]></content>
       
       
+      <categories>
+          
+          <category> 前端技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 跨端技术 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -89,6 +161,18 @@
         <content type="html"><![CDATA[<h1 id="“形而上者谓之道，形而下者谓之器”-————-《易经·系辞》"><a href="#“形而上者谓之道，形而下者谓之器”-————-《易经·系辞》" class="headerlink" title="“形而上者谓之道，形而下者谓之器” ———— 《易经·系辞》"></a>“形而上者谓之道，形而下者谓之器” ———— 《易经·系辞》</h1>]]></content>
       
       
+      <categories>
+          
+          <category> 前端技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 语言框架 </tag>
+            
+        </tags>
       
     </entry>
     
